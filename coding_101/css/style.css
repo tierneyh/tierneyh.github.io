@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,700');
+
+body {
+  color: black;
+  text-align: left;
+  background-color: white;
+  background-image:image("images/Pebble.jpg");
+  font-family: "Raleway", serif;
+}
+.front{
+  text-align: center;
+}
+h1 {
+  color: black;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+}
+h2{
+  text-align: center;
+  margin-top: 1px;
+}
+img{
+  align: center;
+  width: 300px;
+  margin: 0 auto;
+  display: block;
+}
+
+.Club18{
+  display:inline-block;
+  margin-left: 50px;
+  margin-right: 20px;
+  text-align: center;
+}
+
+#club{
+  color: green;
+  text-align: center;
+}
+#club:hover{
+  background-color: black;
+}
+
+li{
+  margin-top: 1px;
+  width: 150px;
+}
